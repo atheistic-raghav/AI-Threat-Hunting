@@ -1,0 +1,182 @@
+Task Name,Task Path,State,Timestamp
+OneDrive Per-Machine Standalone Update Task,\,Ready,2025-05-12 14:08:17
+NcsiIdentifyUserProxies,\Microsoft\Windows\Network Connectivity Status Indicator\,Ready,2025-05-12 14:08:17
+RequestTrace,\Microsoft\Windows\PerformanceTrace\,Ready,2025-05-12 14:08:17
+Device Install Group Policy,\Microsoft\Windows\Plug and Play\,Ready,2025-05-12 14:08:17
+Device Install Reboot Required,\Microsoft\Windows\Plug and Play\,Ready,2025-05-12 14:08:17
+Sysprep Generalize Drivers,\Microsoft\Windows\Plug and Play\,Ready,2025-05-12 14:08:17
+AnalyzeSystem,\Microsoft\Windows\Power Efficiency Diagnostics\,Ready,2025-05-12 14:08:17
+EduPrintProv,\Microsoft\Windows\Printing\,Ready,2025-05-12 14:08:17
+PrinterCleanupTask,\Microsoft\Windows\Printing\,Ready,2025-05-12 14:08:17
+PrintJobCleanupTask,\Microsoft\Windows\Printing\,Disabled,2025-05-12 14:08:17
+VerifyWinRE,\Microsoft\Windows\RecoveryEnvironment\,Disabled,2025-05-12 14:08:17
+Initialization,\Microsoft\Windows\ReFsDedupSvc\,Ready,2025-05-12 14:08:17
+RegIdleBackup,\Microsoft\Windows\Registry\,Ready,2025-05-12 14:08:17
+OOBEFodSetup,\Microsoft\Windows\Servicing\,Disabled,2025-05-12 14:08:17
+StartComponentCleanup,\Microsoft\Windows\Servicing\,Ready,2025-05-12 14:08:17
+Account Cleanup,\Microsoft\Windows\SharedPC\,Disabled,2025-05-12 14:08:17
+CreateObjectTask,\Microsoft\Windows\Shell\,Ready,2025-05-12 14:08:17
+FamilySafetyMonitor,\Microsoft\Windows\Shell\,Ready,2025-05-12 14:08:17
+FamilySafetyRefreshTask,\Microsoft\Windows\Shell\,Ready,2025-05-12 14:08:17
+IndexerAutomaticMaintenance,\Microsoft\Windows\Shell\,Ready,2025-05-12 14:08:17
+ThemesSyncedImageDownload,\Microsoft\Windows\Shell\,Ready,2025-05-12 14:08:17
+WiFiTask,\Microsoft\Windows\NlaSvc\,Ready,2025-05-12 14:08:17
+SystemSoundsService,\Microsoft\Windows\Multimedia\,Running,2025-05-12 14:08:17
+ScanForUpdatesAsUser,\Microsoft\Windows\InstallService\,Ready,2025-05-12 14:08:17
+LPRemove,\Microsoft\Windows\MUI\,Ready,2025-05-12 14:08:17
+WakeUpAndScanForUpdates,\Microsoft\Windows\InstallService\,Disabled,2025-05-12 14:08:17
+Synchronize Language Settings,\Microsoft\Windows\International\,Ready,2025-05-12 14:08:17
+La57Cleanup,\Microsoft\Windows\Kernel\,Ready,2025-05-12 14:08:17
+Installation,\Microsoft\Windows\LanguageComponentsInstaller\,Ready,2025-05-12 14:08:17
+ReconcileLanguageResources,\Microsoft\Windows\LanguageComponentsInstaller\,Ready,2025-05-12 14:08:17
+Notifications,\Microsoft\Windows\Location\,Ready,2025-05-12 14:08:17
+WindowsActionDialog,\Microsoft\Windows\Location\,Ready,2025-05-12 14:08:17
+WinSAT,\Microsoft\Windows\Maintenance\,Ready,2025-05-12 14:08:17
+DetectHardwareChange,\Microsoft\Windows\Management\Autopilot\,Disabled,2025-05-12 14:08:17
+RemediateHardwareChange,\Microsoft\Windows\Management\Autopilot\,Disabled,2025-05-12 14:08:17
+Cellular,\Microsoft\Windows\Management\Provisioning\,Ready,2025-05-12 14:08:17
+Logon,\Microsoft\Windows\Management\Provisioning\,Ready,2025-05-12 14:08:17
+MdmDiagnosticsCleanup,\Microsoft\Windows\Management\Provisioning\,Disabled,2025-05-12 14:08:17
+Retry,\Microsoft\Windows\Management\Provisioning\,Disabled,2025-05-12 14:08:17
+RunOnReboot,\Microsoft\Windows\Management\Provisioning\,Disabled,2025-05-12 14:08:17
+MapsToastTask,\Microsoft\Windows\Maps\,Ready,2025-05-12 14:08:17
+MapsUpdateTask,\Microsoft\Windows\Maps\,Disabled,2025-05-12 14:08:17
+ProcessMemoryDiagnosticEvents,\Microsoft\Windows\MemoryDiagnostic\,Ready,2025-05-12 14:08:17
+RunFullMemoryDiagnostic,\Microsoft\Windows\MemoryDiagnostic\,Disabled,2025-05-12 14:08:17
+SvcRestartTaskLogon,\Microsoft\Windows\SoftwareProtectionPlatform\,Disabled,2025-05-12 14:08:17
+SpaceAgentTask,\Microsoft\Windows\SpacePort\,Ready,2025-05-12 14:08:17
+SpaceManagerTask,\Microsoft\Windows\SpacePort\,Ready,2025-05-12 14:08:17
+MaintenanceTasks,\Microsoft\Windows\StateRepository\,Ready,2025-05-12 14:08:17
+Windows Defender Cache Maintenance,\Microsoft\Windows\Windows Defender\,Ready,2025-05-12 14:08:17
+Windows Defender Cleanup,\Microsoft\Windows\Windows Defender\,Ready,2025-05-12 14:08:17
+Windows Defender Scheduled Scan,\Microsoft\Windows\Windows Defender\,Ready,2025-05-12 14:08:17
+Windows Defender Verification,\Microsoft\Windows\Windows Defender\,Ready,2025-05-12 14:08:17
+QueueReporting,\Microsoft\Windows\Windows Error Reporting\,Ready,2025-05-12 14:08:17
+BfeOnServiceStartTypeChange,\Microsoft\Windows\Windows Filtering Platform\,Ready,2025-05-12 14:08:17
+UpdateLibrary,\Microsoft\Windows\Windows Media Sharing\,Ready,2025-05-12 14:08:17
+Calibration Loader,\Microsoft\Windows\WindowsColorSystem\,Ready,2025-05-12 14:08:17
+Scheduled Start,\Microsoft\Windows\WindowsUpdate\,Ready,2025-05-12 14:08:17
+CacheTask,\Microsoft\Windows\Wininet\,Running,2025-05-12 14:08:17
+CDSSync,\Microsoft\Windows\WlanSvc\,Ready,2025-05-12 14:08:17
+MoProfileManagement,\Microsoft\Windows\WlanSvc\,Ready,2025-05-12 14:08:17
+Work Folders Logon Synchronization,\Microsoft\Windows\Work Folders\,Ready,2025-05-12 14:08:17
+Work Folders Maintenance Work,\Microsoft\Windows\Work Folders\,Ready,2025-05-12 14:08:17
+Automatic-Device-Join,\Microsoft\Windows\Workplace Join\,Disabled,2025-05-12 14:08:17
+Device-Sync,\Microsoft\Windows\Workplace Join\,Disabled,2025-05-12 14:08:17
+Recovery-Check,\Microsoft\Windows\Workplace Join\,Disabled,2025-05-12 14:08:17
+NotificationTask,\Microsoft\Windows\WwanSvc\,Ready,2025-05-12 14:08:17
+OobeDiscovery,\Microsoft\Windows\WwanSvc\,Ready,2025-05-12 14:08:17
+ResolutionHost,\Microsoft\Windows\WDI\,Running,2025-05-12 14:08:17
+WiFiTask,\Microsoft\Windows\WCM\,Ready,2025-05-12 14:08:17
+DeferredWork,\Microsoft\Windows\WaaSMedic\,Ready,2025-05-12 14:08:17
+ResPriStaticDbSync,\Microsoft\Windows\Sysmain\,Ready,2025-05-12 14:08:17
+Storage Tiers Management Initialization,\Microsoft\Windows\Storage Tiers Management\,Ready,2025-05-12 14:08:17
+Storage Tiers Optimization,\Microsoft\Windows\Storage Tiers Management\,Disabled,2025-05-12 14:08:17
+EnableLicenseAcquisition,\Microsoft\Windows\Subscription\,Ready,2025-05-12 14:08:17
+LicenseAcquisition,\Microsoft\Windows\Subscription\,Disabled,2025-05-12 14:08:17
+PowerGridForecastTask,\Microsoft\Windows\Sustainability\,Ready,2025-05-12 14:08:17
+SustainabilityTelemetry,\Microsoft\Windows\Sustainability\,Ready,2025-05-12 14:08:17
+HybridDriveCachePrepopulate,\Microsoft\Windows\Sysmain\,Disabled,2025-05-12 14:08:17
+HybridDriveCacheRebalance,\Microsoft\Windows\Sysmain\,Disabled,2025-05-12 14:08:17
+WsSwapAssessmentTask,\Microsoft\Windows\Sysmain\,Ready,2025-05-12 14:08:17
+Usb-Notifications,\Microsoft\Windows\USB\,Ready,2025-05-12 14:08:17
+SR,\Microsoft\Windows\SystemRestore\,Ready,2025-05-12 14:08:17
+Interactive,\Microsoft\Windows\Task Manager\,Ready,2025-05-12 14:08:17
+MsCtfMonitor,\Microsoft\Windows\TextServicesFramework\,Ready,2025-05-12 14:08:17
+ForceSynchronizeTime,\Microsoft\Windows\Time Synchronization\,Ready,2025-05-12 14:08:17
+SynchronizeTime,\Microsoft\Windows\Time Synchronization\,Ready,2025-05-12 14:08:17
+SynchronizeTimeZone,\Microsoft\Windows\Time Zone\,Ready,2025-05-12 14:08:17
+RunUpdateNotificationMgr,\Microsoft\Windows\UNP\,Disabled,2025-05-12 14:08:17
+UPnPHostConfig,\Microsoft\Windows\UPnP\,Ready,2025-05-12 14:08:17
+WakeUpAndContinueUpdates,\Microsoft\Windows\InstallService\,Disabled,2025-05-12 14:08:17
+ScanForUpdates,\Microsoft\Windows\InstallService\,Ready,2025-05-12 14:08:17
+OneDrive Reporting Task-S-1-5-21-102876716-674825650-1190758383-1001,\,Ready,2025-05-12 14:08:17
+SdbinstMergeDbTask,\Microsoft\Windows\Application Experience\,Ready,2025-05-12 14:08:17
+appuriverifierdaily,\Microsoft\Windows\ApplicationData\,Ready,2025-05-12 14:08:17
+appuriverifierinstall,\Microsoft\Windows\ApplicationData\,Ready,2025-05-12 14:08:17
+CleanupTemporaryState,\Microsoft\Windows\ApplicationData\,Ready,2025-05-12 14:08:17
+DsSvcCleanup,\Microsoft\Windows\ApplicationData\,Ready,2025-05-12 14:08:17
+Backup,\Microsoft\Windows\AppListBackup\,Ready,2025-05-12 14:08:17
+BackupNonMaintenance,\Microsoft\Windows\AppListBackup\,Ready,2025-05-12 14:08:17
+Pre-staged app cleanup,\Microsoft\Windows\AppxDeploymentClient\,Disabled,2025-05-12 14:08:17
+Proxy,\Microsoft\Windows\Autochk\,Ready,2025-05-12 14:08:17
+BitLocker Encrypt All Drives,\Microsoft\Windows\BitLocker\,Ready,2025-05-12 14:08:17
+BitLocker MDM policy Refresh,\Microsoft\Windows\BitLocker\,Ready,2025-05-12 14:08:17
+UninstallDeviceTask,\Microsoft\Windows\Bluetooth\,Ready,2025-05-12 14:08:17
+BgTaskRegistrationMaintenanceTask,\Microsoft\Windows\BrokerInfrastructure\,Ready,2025-05-12 14:08:17
+maintenancetasks,\Microsoft\Windows\capabilityaccessmanager\,Ready,2025-05-12 14:08:17
+UserTask,\Microsoft\Windows\CertificateServicesClient\,Ready,2025-05-12 14:08:17
+UserTask-Roam,\Microsoft\Windows\CertificateServicesClient\,Ready,2025-05-12 14:08:17
+ProactiveScan,\Microsoft\Windows\Chkdsk\,Ready,2025-05-12 14:08:17
+SyspartRepair,\Microsoft\Windows\Chkdsk\,Ready,2025-05-12 14:08:17
+CreateObjectTask,\Microsoft\Windows\CloudExperienceHost\,Ready,2025-05-12 14:08:17
+Backup,\Microsoft\Windows\CloudRestore\,Ready,2025-05-12 14:08:17
+StartupAppTask,\Microsoft\Windows\Application Experience\,Ready,2025-05-12 14:08:17
+PcaPatchDbTask,\Microsoft\Windows\Application Experience\,Ready,2025-05-12 14:08:17
+RestoreDevice,\Microsoft\Windows\InstallService\,Ready,2025-05-12 14:08:17
+Microsoft Compatibility Appraiser Exp,\Microsoft\Windows\Application Experience\,Ready,2025-05-12 14:08:17
+OneDrive Startup Task-S-1-5-21-102876716-674825650-1190758383-1001,\,Ready,2025-05-12 14:08:17
+Office Apps Prewarm,\Microsoft\Office\,Disabled,2025-05-12 14:08:17
+Office Apps Prewarm Recurring,\Microsoft\Office\,Disabled,2025-05-12 14:08:17
+Office Automatic Updates 2.0,\Microsoft\Office\,Ready,2025-05-12 14:08:17
+Office Background Push Maintenance,\Microsoft\Office\,Ready,2025-05-12 14:08:17
+Office ClickToRun Service Monitor,\Microsoft\Office\,Ready,2025-05-12 14:08:17
+Office Feature Updates,\Microsoft\Office\,Ready,2025-05-12 14:08:17
+Office Feature Updates Logon,\Microsoft\Office\,Ready,2025-05-12 14:08:17
+Office Performance Monitor,\Microsoft\Office\,Ready,2025-05-12 14:08:17
+.NET Framework NGEN v4.0.30319,\Microsoft\Windows\.NET Framework\,Ready,2025-05-12 14:08:17
+.NET Framework NGEN v4.0.30319 64,\Microsoft\Windows\.NET Framework\,Ready,2025-05-12 14:08:17
+.NET Framework NGEN v4.0.30319 64 Critical,\Microsoft\Windows\.NET Framework\,Disabled,2025-05-12 14:08:17
+.NET Framework NGEN v4.0.30319 Critical,\Microsoft\Windows\.NET Framework\,Disabled,2025-05-12 14:08:17
+AD RMS Rights Policy Template Management (Automated),\Microsoft\Windows\Active Directory Rights Management Services Client\,Disabled,2025-05-12 14:08:17
+AD RMS Rights Policy Template Management (Manual),\Microsoft\Windows\Active Directory Rights Management Services Client\,Ready,2025-05-12 14:08:17
+PolicyConverter,\Microsoft\Windows\AppID\,Ready,2025-05-12 14:08:17
+VerifiedPublisherCertStoreCheck,\Microsoft\Windows\AppID\,Ready,2025-05-12 14:08:17
+MareBackup,\Microsoft\Windows\Application Experience\,Ready,2025-05-12 14:08:17
+Microsoft Compatibility Appraiser,\Microsoft\Windows\Application Experience\,Ready,2025-05-12 14:08:17
+Restore,\Microsoft\Windows\CloudRestore\,Ready,2025-05-12 14:08:17
+UnifiedConsentSyncTask,\Microsoft\Windows\ConsentUX\UnifiedConsent\,Ready,2025-05-12 14:08:17
+Consolidator,\Microsoft\Windows\Customer Experience Improvement Program\,Ready,2025-05-12 14:08:17
+UsbCeip,\Microsoft\Windows\Customer Experience Improvement Program\,Ready,2025-05-12 14:08:17
+DmClient,\Microsoft\Windows\Feedback\Siuf\,Ready,2025-05-12 14:08:17
+DmClientOnScenarioDownload,\Microsoft\Windows\Feedback\Siuf\,Ready,2025-05-12 14:08:17
+File History (maintenance mode),\Microsoft\Windows\FileHistory\,Ready,2025-05-12 14:08:17
+BootstrapUsageDataReporting,\Microsoft\Windows\Flighting\FeatureConfig\,Disabled,2025-05-12 14:08:17
+ReconcileConfigs,\Microsoft\Windows\Flighting\FeatureConfig\,Ready,2025-05-12 14:08:17
+ReconcileFeatures,\Microsoft\Windows\Flighting\FeatureConfig\,Ready,2025-05-12 14:08:17
+UsageDataFlushing,\Microsoft\Windows\Flighting\FeatureConfig\,Ready,2025-05-12 14:08:17
+UsageDataReceiver,\Microsoft\Windows\Flighting\FeatureConfig\,Ready,2025-05-12 14:08:17
+UsageDataReporting,\Microsoft\Windows\Flighting\FeatureConfig\,Ready,2025-05-12 14:08:17
+RefreshCache,\Microsoft\Windows\Flighting\OneSettings\,Ready,2025-05-12 14:08:17
+InputSettingsRestoreDataAvailable,\Microsoft\Windows\input\,Ready,2025-05-12 14:08:17
+LocalUserSyncDataAvailable,\Microsoft\Windows\input\,Ready,2025-05-12 14:08:17
+MouseSyncDataAvailable,\Microsoft\Windows\input\,Ready,2025-05-12 14:08:17
+PenSyncDataAvailable,\Microsoft\Windows\input\,Ready,2025-05-12 14:08:17
+RemoteMouseSyncDataAvailable,\Microsoft\Windows\input\,Ready,2025-05-12 14:08:17
+RemotePenSyncDataAvailable,\Microsoft\Windows\input\,Ready,2025-05-12 14:08:17
+RemoteTouchpadSyncDataAvailable,\Microsoft\Windows\input\,Ready,2025-05-12 14:08:17
+syncpensettings,\Microsoft\Windows\input\,Ready,2025-05-12 14:08:17
+TouchpadSyncDataAvailable,\Microsoft\Windows\input\,Ready,2025-05-12 14:08:17
+ExploitGuard MDM policy Refresh,\Microsoft\Windows\ExploitGuard\,Ready,2025-05-12 14:08:17
+StorageCardEncryption Task,\Microsoft\Windows\EDP\,Ready,2025-05-12 14:08:17
+EDP Inaccessible Credentials Task,\Microsoft\Windows\EDP\,Ready,2025-05-12 14:08:17
+UnexpectedCodepath,\Microsoft\Windows\Diagnosis\,Ready,2025-05-12 14:08:17
+Data Integrity Check And Scan,\Microsoft\Windows\Data Integrity Scan\,Ready,2025-05-12 14:08:17
+Data Integrity Scan,\Microsoft\Windows\Data Integrity Scan\,Ready,2025-05-12 14:08:17
+Data Integrity Scan for Crash Recovery,\Microsoft\Windows\Data Integrity Scan\,Ready,2025-05-12 14:08:17
+ScheduledDefrag,\Microsoft\Windows\Defrag\,Ready,2025-05-12 14:08:17
+Device,\Microsoft\Windows\Device Information\,Ready,2025-05-12 14:08:17
+Device User,\Microsoft\Windows\Device Information\,Ready,2025-05-12 14:08:17
+RecommendedTroubleshootingScanner,\Microsoft\Windows\Diagnosis\,Ready,2025-05-12 14:08:17
+Scheduled,\Microsoft\Windows\Diagnosis\,Ready,2025-05-12 14:08:17
+DirectXDatabaseUpdater,\Microsoft\Windows\DirectX\,Ready,2025-05-12 14:08:17
+EDP Auth Task,\Microsoft\Windows\EDP\,Ready,2025-05-12 14:08:17
+DXGIAdapterCache,\Microsoft\Windows\DirectX\,Ready,2025-05-12 14:08:17
+SilentCleanup,\Microsoft\Windows\DiskCleanup\,Ready,2025-05-12 14:08:17
+Microsoft-Windows-DiskDiagnosticDataCollector,\Microsoft\Windows\DiskDiagnostic\,Disabled,2025-05-12 14:08:17
+Microsoft-Windows-DiskDiagnosticResolver,\Microsoft\Windows\DiskDiagnostic\,Disabled,2025-05-12 14:08:17
+Diagnostics,\Microsoft\Windows\DiskFootprint\,Ready,2025-05-12 14:08:17
+StorageSense,\Microsoft\Windows\DiskFootprint\,Ready,2025-05-12 14:08:17
+dusmtask,\Microsoft\Windows\DUSM\,Ready,2025-05-12 14:08:17
+EDP App Launch Task,\Microsoft\Windows\EDP\,Ready,2025-05-12 14:08:17
+XblGameSaveTask,\Microsoft\XblGameSave\,Ready,2025-05-12 14:08:17

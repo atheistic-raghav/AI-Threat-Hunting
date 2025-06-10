@@ -1,0 +1,115 @@
+Service Name,Short Name,Status,Timestamp
+AMD Crash Defender Service,AMD Crash Defender Service,Running,2025-05-12 14:08:18
+State Repository Service,StateRepository,Running,2025-05-12 14:08:18
+SSDP Discovery,SSDPSRV,Running,2025-05-12 14:08:18
+Print Spooler,Spooler,Running,2025-05-12 14:08:18
+Microsoft Storage Spaces SMP,smphost,Running,2025-05-12 14:08:18
+Shell Hardware Detection,ShellHWDetection,Running,2025-05-12 14:08:18
+System Event Notification Service,SENS,Running,2025-05-12 14:08:18
+Windows Security Service,SecurityHealthService,Running,2025-05-12 14:08:18
+Sound Research SECOMN Service,SECOMNService,Running,2025-05-12 14:08:18
+Task Scheduler,Schedule,Running,2025-05-12 14:08:18
+Security Accounts Manager,SamSs,Running,2025-05-12 14:08:18
+Realtek Bluetooth Device Manager Service,RtkBtManServ,Running,2025-05-12 14:08:18
+Realtek Audio Universal Service,RtkAudioUniversalService,Running,2025-05-12 14:08:18
+Remote Procedure Call (RPC),RpcSs,Running,2025-05-12 14:08:18
+RPC Endpoint Mapper,RpcEptMapper,Running,2025-05-12 14:08:18
+Radio Management Service,RmSvc,Running,2025-05-12 14:08:18
+Remote Access Connection Manager,RasMan,Running,2025-05-12 14:08:18
+User Profile Service,ProfSvc,Running,2025-05-12 14:08:18
+Power,Power,Running,2025-05-12 14:08:18
+IPsec Policy Agent,PolicyAgent,Running,2025-05-12 14:08:18
+Plug and Play,PlugPlay,Running,2025-05-12 14:08:18
+Phone Service,PhoneSvc,Running,2025-05-12 14:08:18
+Program Compatibility Assistant Service,PcaSvc,Running,2025-05-12 14:08:18
+OneSyncSvc_8c11f,OneSyncSvc_8c11f,Running,2025-05-12 14:08:18
+Network Store Interface Service,nsi,Running,2025-05-12 14:08:18
+NPSMSvc_8c11f,NPSMSvc_8c11f,Running,2025-05-12 14:08:18
+Network Setup Service,NetSetupSvc,Running,2025-05-12 14:08:18
+Secure Socket Tunneling Protocol Service,SstpSvc,Running,2025-05-12 14:08:18
+Windows Image Acquisition (WIA),StiSvc,Running,2025-05-12 14:08:18
+AMD External Events Utility,AMD External Events Utility,Running,2025-05-12 14:08:18
+Storage Service,StorSvc,Running,2025-05-12 14:08:18
+Windows Search,WSearch,Running,2025-05-12 14:08:18
+Security Center,wscsvc,Running,2025-05-12 14:08:18
+WpnUserService_8c11f,WpnUserService_8c11f,Running,2025-05-12 14:08:18
+Windows Push Notifications System Service,WpnService,Running,2025-05-12 14:08:18
+Microsoft Account Sign-in Assistant,wlidsvc,Running,2025-05-12 14:08:18
+WLAN AutoConfig,WlanSvc,Running,2025-05-12 14:08:18
+Windows Management Instrumentation,Winmgmt,Running,2025-05-12 14:08:18
+WinHTTP Web Proxy Auto-Discovery Service,WinHttpAutoProxySvc,Running,2025-05-12 14:08:18
+Microsoft Defender Antivirus Service,WinDefend,Running,2025-05-12 14:08:18
+webthreatdefusersvc_8c11f,webthreatdefusersvc_8c11f,Running,2025-05-12 14:08:18
+Web Threat Defense Service,webthreatdefsvc,Running,2025-05-12 14:08:18
+Microsoft Defender Antivirus Network Inspection Service,WdNisSvc,Running,2025-05-12 14:08:18
+Diagnostic System Host,WdiSystemHost,Running,2025-05-12 14:08:18
+Windows Connection Manager,Wcmsvc,Running,2025-05-12 14:08:18
+Credential Manager,VaultSvc,Running,2025-05-12 14:08:18
+Update Orchestrator Service,UsoSvc,Running,2025-05-12 14:08:18
+User Manager,UserManager,Running,2025-05-12 14:08:18
+UdkUserSvc_8c11f,UdkUserSvc_8c11f,Running,2025-05-12 14:08:18
+Distributed Link Tracking Client,TrkWks,Running,2025-05-12 14:08:18
+Web Account Manager,TokenBroker,Running,2025-05-12 14:08:18
+Time Broker,TimeBrokerSvc,Running,2025-05-12 14:08:18
+Themes,Themes,Running,2025-05-12 14:08:18
+Text Input Management Service,TextInputManagementService,Running,2025-05-12 14:08:18
+System Events Broker,SystemEventsBroker,Running,2025-05-12 14:08:18
+SysMain,SysMain,Running,2025-05-12 14:08:18
+Network List Service,netprofm,Running,2025-05-12 14:08:18
+Network Connection Broker,NcbService,Running,2025-05-12 14:08:18
+MySQL80,MySQL80,Running,2025-05-12 14:08:18
+Windows Defender Firewall,mpssvc,Running,2025-05-12 14:08:18
+Connected User Experiences and Telemetry,DiagTrack,Running,2025-05-12 14:08:18
+DHCP Client,Dhcp,Running,2025-05-12 14:08:18
+DevicesFlowUserSvc_8c11f,DevicesFlowUserSvc_8c11f,Running,2025-05-12 14:08:18
+Device Association Service,DeviceAssociationService,Running,2025-05-12 14:08:18
+DCOM Server Process Launcher,DcomLaunch,Running,2025-05-12 14:08:18
+Cryptographic Services,CryptSvc,Running,2025-05-12 14:08:18
+CoreMessaging,CoreMessagingRegistrar,Running,2025-05-12 14:08:18
+Microsoft Office Click-to-Run Service,ClickToRunSvc,Running,2025-05-12 14:08:18
+CDPUserSvc_8c11f,CDPUserSvc_8c11f,Running,2025-05-12 14:08:18
+Connected Devices Platform Service,CDPSvc,Running,2025-05-12 14:08:18
+cbdhsvc_8c11f,cbdhsvc_8c11f,Running,2025-05-12 14:08:18
+Capability Access Manager Service,camsvc,Running,2025-05-12 14:08:18
+Bluetooth Support Service,bthserv,Running,2025-05-12 14:08:18
+AVCTP service,BthAvctpSvc,Running,2025-05-12 14:08:18
+Bluetooth Audio Gateway Service,BTAGService,Running,2025-05-12 14:08:18
+Background Tasks Infrastructure Service,BrokerInfrastructure,Running,2025-05-12 14:08:18
+BluetoothUserService_8c11f,BluetoothUserService_8c11f,Running,2025-05-12 14:08:18
+Background Intelligent Transfer Service,BITS,Running,2025-05-12 14:08:18
+Base Filtering Engine,BFE,Running,2025-05-12 14:08:18
+BitLocker Drive Encryption Service,BDESVC,Running,2025-05-12 14:08:18
+Windows Audio,Audiosrv,Running,2025-05-12 14:08:18
+Windows Audio Endpoint Builder,AudioEndpointBuilder,Running,2025-05-12 14:08:18
+AppX Deployment Service (AppXSVC),AppXSvc,Running,2025-05-12 14:08:18
+Application Information,Appinfo,Running,2025-05-12 14:08:18
+Application Identity,AppIDSvc,Running,2025-05-12 14:08:18
+Display Policy Service,DispBrokerDesktopSvc,Running,2025-05-12 14:08:18
+Display Enhancement Service,DisplayEnhancementService,Running,2025-05-12 14:08:18
+DNS Client,Dnscache,Running,2025-05-12 14:08:18
+HP Insights Analytics,HpTouchpointAnalyticsService,Running,2025-05-12 14:08:18
+Microsoft Defender Core Service,MDCoreSvc,Running,2025-05-12 14:08:18
+Local Session Manager,LSM,Running,2025-05-12 14:08:18
+TCP/IP NetBIOS Helper,lmhosts,Running,2025-05-12 14:08:18
+Windows License Manager Service,LicenseManager,Running,2025-05-12 14:08:18
+Geolocation Service,lfsvc,Running,2025-05-12 14:08:18
+Workstation,LanmanWorkstation,Running,2025-05-12 14:08:18
+Server,LanmanServer,Running,2025-05-12 14:08:18
+CNG Key Isolation,KeyIso,Running,2025-05-12 14:08:18
+IP Helper,iphlpsvc,Running,2025-05-12 14:08:18
+Microsoft Store Install Service,InstallService,Running,2025-05-12 14:08:18
+HV Host Service,HvHost,Running,2025-05-12 14:08:18
+HP System Info HSA Service,HPSysInfoCap,Running,2025-05-12 14:08:18
+Delivery Optimization,DoSvc,Running,2025-05-12 14:08:18
+HP Network HSA Service,HPNetworkCap,Running,2025-05-12 14:08:18
+HP Diagnostics HSA Service,HPDiagsCap,Running,2025-05-12 14:08:18
+HP App Helper HSA Service,HPAppHelperCap,Running,2025-05-12 14:08:18
+Group Policy Client,gpsvc,Running,2025-05-12 14:08:18
+Windows Font Cache Service,FontCache,Running,2025-05-12 14:08:18
+FileSyncHelper,FileSyncHelper,Running,2025-05-12 14:08:18
+COM+ Event System,EventSystem,Running,2025-05-12 14:08:18
+Windows Event Log,EventLog,Running,2025-05-12 14:08:18
+ELAN Service,ETDService,Running,2025-05-12 14:08:18
+Data Usage,DusmSvc,Running,2025-05-12 14:08:18
+Diagnostic Policy Service,DPS,Running,2025-05-12 14:08:18
+Windows Update,wuauserv,Running,2025-05-12 14:08:18

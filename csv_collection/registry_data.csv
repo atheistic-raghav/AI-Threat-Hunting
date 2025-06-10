@@ -1,0 +1,4 @@
+Registry Entry,Timestamp
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run,2025-05-12 14:08:16.245503
+SecurityHealth    REG_EXPAND_SZ    %windir%\system32\SecurityHealthSystray.exe,2025-05-12 14:08:16.245503
+"RtkAudUService    REG_SZ    ""C:\WINDOWS\System32\DriverStore\FileRepository\realtekservice.inf_amd64_4c654101995b0d9c\RtkAudUService64.exe"" -background",2025-05-12 14:08:16.245503
